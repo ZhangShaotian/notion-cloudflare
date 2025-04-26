@@ -1,4 +1,4 @@
-const NOTION_PAGE = "1d04e718285380cfab06d00efdfe4343"; 
+const NOTION_PAGE = "1dc4e718285380a6b97ace0025817388"; 
 const CUSTOM_DOMAIN = "shaotian.me";                      
 const NOTION_DOMAIN = "curse-text-01f.notion.site";      
 
