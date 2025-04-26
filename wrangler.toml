@@ -1,0 +1,8 @@
+name = "notion-cloudflare"
+type = "javascript"
+
+account_id = "aff15ca0bdcc674fc261231449ba6e43"
+workers_dev = true
+main = "index.js"
+
+compatibility_date = "2024-04-21"
